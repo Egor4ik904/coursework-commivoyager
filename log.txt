@@ -1,0 +1,8 @@
+[08.05.2023 1:05:32] ArgumentException: Invalid input in row 1, column 2
+   at Commivoyager.TSPSolver.ReadInputData(DataGridView dataGridView) in C:\Users\Yskri\OneDrive\Рабочий стол\study\T&MP_commercial\Калинин Егор\курсовая\Commivoyager\TSPSolver.cs:line 25
+[08.05.2023 1:43:04] NullReferenceException: Object reference not set to an instance of an object.
+   at Commivoyager.TSPSolver.ReadInputData(DataGridView dataGridView) in C:\Users\Yskri\OneDrive\Рабочий стол\study\T&MP_commercial\Калинин Егор\курсовая\Commivoyager\TSPSolver.cs:line 22
+[08.05.2023 1:45:02] NullReferenceException: Object reference not set to an instance of an object.
+   at Commivoyager.TSPSolver.ReadInputData(DataGridView dataGridView) in C:\Users\Yskri\OneDrive\Рабочий стол\study\T&MP_commercial\Калинин Егор\курсовая\Commivoyager\TSPSolver.cs:line 22
+[08.05.2023 1:45:43] NullReferenceException: Object reference not set to an instance of an object.
+   at Commivoyager.TSPSolver.ReadInputData(DataGridView dataGridView) in C:\Users\Yskri\OneDrive\Рабочий стол\study\T&MP_commercial\Калинин Егор\курсовая\Commivoyager\TSPSolver.cs:line 22
